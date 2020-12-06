@@ -1,6 +1,6 @@
 {
-  "id": "784849059714039828",
-  "provider": "discord",
+  "id": "ibm_deep-thought",
+  "provider": "lichess",
   "username": "IBM_Deep-Thought",
-  "firstSeen": 1607193121904
+  "firstSeen": 1607239441621
 }
